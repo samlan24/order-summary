@@ -43,7 +43,7 @@ body {
 
 .container {
   background-color: #fff;
-  width: 360px;
+  width: 400px;
   border-radius: 15px;
   overflow: hidden;
 }
@@ -60,7 +60,7 @@ img {
 }
 
 .card-content {
-  padding: 2rem;
+  padding: 1.5rem 2rem;
   display: flex;
   flex-direction: column;
   text-align: center;
